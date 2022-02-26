@@ -1,0 +1,23 @@
+{
+  "name": "js-sets",
+  "version": "1.0.1",
+  "description": "A JavaScript implementation of Set",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "set",
+    "JavaScript Set",
+    "Set Theory",
+    "Js Set",
+    "js-set",
+    "Set Union",
+    "Set Equivalent",
+    "Set Difference",
+    "Set Intersection",
+    "Set equality"
+  ],
+  "author": "Usman Hassan",
+  "license": "ISC"
+}
