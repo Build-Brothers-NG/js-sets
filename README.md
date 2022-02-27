@@ -99,6 +99,12 @@ Using the _equal()_ method will return either a Boolean value, so there so there
 
 All methods that accept parameters except for the _equivalent()_ method, the _result()_ method has to be called at the end as chain method in order to get the result of the operation.
 
+# Contributors
+
+---
+
+- Usman G. Hassan 🟢 [@UsmanGurowa](https://twitter.com/UsmanGurowa)
+
 # License
 
 This program is licensed under the GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007. Please read the LICENSE.txt text document included with the source code if you would like to read the terms of the license.

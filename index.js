@@ -1,7 +1,3 @@
-let setA = [1, 2, 3];
-let setB = [3, 4, 5];
-let setC = [5, 6, 7];
-
 class Set {
   constructor(...args) {
     this.value = this.#union(args);
@@ -111,4 +107,8 @@ class Set {
   power(args) {
     return 2 ** this.value.length;
   }
+}
+
+if (typeof module === "object" && module.hasOwnProperty("exports")) {
+  module.exports = Set;
 }

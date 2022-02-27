@@ -1,13 +1,30 @@
 {
   "name": "js-sets",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "A JavaScript implementation of Set",
   "main": "index.js",
+  "homepage": "https://github.com/Build-Brothers-NG/js-sets#readme",
+  "bugs": {
+    "url": "https://github.com/Build-Brothers-NG/js-sets/issues",
+    "email": "info@buildbrothers.com"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Build-Brothers-NG/js-sets.git"
+  },
+  "contributors": [
+    {
+      "name": "Usman Hassan",
+      "email": "usmanhassangu@gmail.com",
+      "url": "https://github.com/Usman-Hassan-Gu"
+    }
+  ],
   "keywords": [
     "set",
+    "Set",
     "JavaScript Set",
     "Set Theory",
     "Js Set",
